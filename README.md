@@ -1,9 +1,11 @@
 # Arduino Voltmeter 0-30V
+This is a very easy Example of a voltmeter for reading DC voltage, that's why I´m only using the Serial monitor to print data.
 
 Materials:
-* 10 Kohms resistor
-* 100 kohms resistor
+* 10 kΩ resistor
+* 100 kΩ resistor
 * Arduino UNO
+* And Some jumpers
 
 ## Schema
 
